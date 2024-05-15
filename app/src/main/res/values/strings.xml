@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cyberzone</string>
+    <string name="game_not_found">Игра не найдена</string>
+    <string name="qr_scan_success">QR-код успешно отсканирован</string>
+    <string name="qr_scan_fail">Не удалось отсканировать QR-код</string>
+    <string name="find_favourite_game">Найти любимую игру...</string>
+    <string name="to_book">ЗАБРОНИРОВАТЬ</string>
+    <string name="to_take">ВЗЯТЬ</string>
+    <string name="entrance">ВХОД</string>
+    <string name="login">ВОЙТИ</string>
+    <string name="welcome">Рады тебя видеть снова!</string>
+    <string name="password">Пароль</string>
+    <string name="email">Email</string>
+    <string name="type_text_here">Введите текст здесь...</string>
+    <string name="your_email">Ваша электронная почта</string>
+    <string name="home">Главная</string>
+    <string name="book">Бронироние</string>
+    <string name="scanner">Сканер</string>
+    <string name="profile">Профиль</string>
+    <string name="login_via_lk">ВОЙТИ ЧЕРЕЗ ЛКС</string>
+    <string name="no_such_user">Пользователь не найден</string>
+    <string name="login_success">Вход успешно выполнен</string>
+    <string name="enter_for_admin">Вход для организаторов</string>
+</resources>
